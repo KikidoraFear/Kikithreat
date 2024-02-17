@@ -1,7 +1,7 @@
 ## Interface: 11200
-## Title: Kikimeter5
+## Title: Kikithreat1
 ## Author: Kikidora
-## Notes: damage/heal meter that broadcasts user's damage/heal to other clients for accurate tracking
-## Version: 5.3
+## Notes: tracks threat
+## Version: 1.0
 
-Kikimeter.lua
+Kikithreat.lua
